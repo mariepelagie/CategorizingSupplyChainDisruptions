@@ -1,0 +1,91 @@
+﻿Year,Disruption,Duration,Likelihood,Warning Capability,Disruption Position
+2000,Fire at the Philips microchip plant,Acute,Rare,No,Single tier 
+2000,Tropical cyclone - Leslie,Acute,Reoccurring,Yes,Multi-tiered
+2001,Land Rover lay-off,Acute ,Rare ,No,Single tier 
+2001,9/11 terrorist attack,Acute,Rare,No,Multi-tiered
+2001,Tropical cyclone - Allison,Acute,Reoccurring,Yes,Multi-tiered
+2002,"West Coast ports lockout (Automotive,manufacturing,transport, Delay) ",Acute,Rare,Yes,Multi-tiered
+2002,Tropical cyclone - Lili,Acute,Reoccurring,Yes,Multi-tiered
+2002,Tropical cyclone - Isidore,Acute,Reoccurring,Yes,Multi-tiered
+2003,Bird Flu,Chronic ,Rare ,No,Multi-tiered
+2003,Tropical cyclone - Isabel,Acute,Reoccurring,Yes,Multi-tiered
+2003,Tropical cyclone - Bill,Acute,Reoccurring,Yes,Multi-tiered
+2004,Hurricane Jeanne,Acute,Reoccurring,Yes,Multi-tiered
+2004,Influenza vaccine shortage,Chronic ,Rare,Yes,Single tier 
+2004,Tropical cyclone Frances,Acute,Reoccurring,Yes,Multi-tiered
+2004,Tropical cyclone Gaston,Acute,Reoccurring,Yes,Multi-tiered
+2004,Tropical cyclone Charley,Acute,Reoccurring,Yes,Multi-tiered
+2004,Tropical cyclone Jeanne,Acute,Reoccurring,Yes,Multi-tiered
+2005,Hurricanne Katrina,Acute,Reoccurring,Yes,Multi-tiered
+2005,"Hurricane ""Wilma""",Acute,Reoccurring,Yes,Multi-tiered
+2005,Tropical cyclone Rita,Acute,Reoccurring,Yes,Multi-tiered
+2005,"Hurricane ""Dennis""",Acute,Reoccurring,Yes,Multi-tiered
+2006,Tropical cyclone Ernesto,Acute,Reoccurring,Yes,Multi-tiered
+2007, Toy recalls due to lead poisoning,Chronic ,Rare ,No,Single tier 
+2007,Tropical cyclone Erin,Acute,Reoccurring,Yes,Multi-tiered
+2008,Hurricane Gustav ,Acute,Reoccurring,Yes,Multi-tiered
+2008,Hurricane Ike,Acute,Reoccurring,Yes,Multi-tiered
+2008,Hurricane Dolly,Acute,Reoccurring,Yes,Multi-tiered
+2008,Tropical storm Fay,Acute,Reoccurring,Yes,Multi-tiered
+2008,Hurrican Ike,Acute,Reoccurring,Yes,Multi-tiered
+2008,Severe winter conditions,Acute,Rare ,Yes,Multi-tiered
+2008,"Hurricane ""Gustav""",Acute,Reoccurring,Yes,Multi-tiered
+2008,Hurricane Hanna,Acute,Reoccurring,Yes,Multi-tiered
+2009,Toyota Motor Corp. Recalls,Chronic ,Rare,No,Single tier 
+2009,"Hurricane ""Ida""",Acute,Reoccurring,Yes,Multi-tiered
+2009,Hurricane Bill,Acute,Reoccurring,Yes,Multi-tiered
+2010,Iceland Volcano,Acute,Rare ,Yes,Multi-tiered
+2010,Gulf Oil spill,Acute,Rare,No,Single tier 
+2010,Hurricane Earl,Acute,Reoccurring,Yes,Multi-tiered
+2010,Tropical storm Hermine,Acute,Reoccurring,Yes,Multi-tiered
+2011,"Great East Japan Earthquake, Tsunami, and Nuclear Accident (Electronic, Automotive, Infrastructure)",Chronic ,Rare,No,Multi-tiered
+2011,Thailand Floods,Acute,Reoccurring,Yes,Multi-tiered
+2011,Hurricane Irene,Acute,Reoccurring,Yes,Multi-tiered
+2011,Tropical Storm Lee,Acute,Reoccurring,Yes,Multi-tiered
+2012,Evonik Chemical Plant Fire,Acute,Rare,No,Single tier 
+2012,Port Strikes,Acute,Rare,Yes,Multi-tiered
+2012,Hurricane Sandy,Acute,Reoccurring,Yes,Multi-tiered
+2012,Hurricane Isaac,Acute,Reoccurring,Yes,Multi-tiered
+2012,Tropical storm Debby,Acute,Reoccurring,Yes,Multi-tiered
+2012,Waldo Canyon Fire,Acute,Rare ,No,Multi-tiered
+2013,Target cyber attack,Acute ,Rare ,No,Single tier 
+2014,Chemical Spill at Intel Plant,Acute,Reoccurring,No,Single tier 
+2014,Hurricane Iselle,Acute,Reoccurring,Yes,Multi-tiered
+2015,Explosion at China’s port city of L Tanjin,Acute,Reoccurring,No,Multi-tiered
+2015,Valley Fire,Acute,Rare,No,Multi-tiered
+2015,Tropical cyclone Joaquin,Acute,Reoccurring,Yes,Multi-tiered
+2015,Butte Fire,Acute,Rare,No,Multi-tiered
+2016,Attack on Water Utility Chemical Controls ,Acute ,Rare,No,Single tier 
+2016,Hurricane Hermine,Acute,Reoccurring,Yes,Multi-tiered
+2016,Storm Jonas (Snowzilla),Acute,Reoccurring,Yes,Multi-tiered
+2016,Hurricane Matthew,Acute,Reoccurring,Yes,Multi-tiered
+2016,Sand Fire,Acute,Rare,No,Multi-tiered
+2016,Clayton Fire,Acute,Rare,No,Multi-tiered
+2017,Hurricane Maria,Acute,Reoccurring,Yes,Multi-tiered
+2017,Hurricane Harvey,Acute,Rare,Yes,Multi-tiered
+2017,Hurricane 'Irma',Acute,Reoccurring,Yes,Multi-tiered
+2017,Hurricane 'Maria',Acute,Reoccurring,Yes,Multi-tiered
+2017,Tropical depression'16/Hurricane 'Nate',Acute,Reoccurring,Yes,Multi-tiered
+2017,"Wall Fire, Alamo Fire, Whittier Fire",Acute,Rare,No,Multi-tiered
+2017,"Tubbs, Atlas, Nuns Fires",Acute,Rare,No,Multi-tiered
+2017,Thomas' Wildfire,Acute,Rare,No,Multi-tiered
+2018,Hurricane Florence,Acute,Reoccurring,Yes,Multi-tiered
+2018,US-China Trade conflicts,Chronic ,Rare,Yes,Multi-tiered
+2018,Kilauea Lava flow,Chronic ,Rare ,Yes,Multi-tiered
+2018,Carr and Mendocino Complex fires,Acute,Rare,No,Multi-tiered
+2018,Hurricane Florence,Acute,Reoccurring,Yes,Multi-tiered
+2018,Hurricane Michael,Acute,Reoccurring,Yes,Multi-tiered
+2018,Tropical storm 'Alberto',Acute,Reoccurring,Yes,Multi-tiered
+2018,Camp Fire,Acute,Rare,No,Multi-tiered
+2018,Woolsey Fire,Acute,Rare,No,Multi-tiered
+2019,Cyber attack on Natural Gas compressor station,Acute,Reoccurring,No,Multi-tiered
+2019,Tropical storm ' Imelda',Acute,Reoccurring,Yes,Multi-tiered
+2019,Tropical cylone 'Barry',Acute,Reoccurring,Yes,Multi-tiered
+2019,Tropical cyclone 'Dorian',Acute,Reoccurring,Yes,Multi-tiered
+2019,Saddleridge fire & Sandalwood fire,Acute,Rare,No,Multi-tiered
+2019,Kincade Fire,Acute,Rare,No,Multi-tiered
+2020,COVID-19 - Good shortage,Chronic ,Rare,Yes,Multi-tiered
+2020,U.S.-China Trade War,Chronic ,Rare ,Yes,Multi-tiered
+2021,Energy Cyber Attack,Acute,Reoccurring,No,
+2021,Colonial Pipeline cyber attack,Acute,Reoccurring,No,Multi-tiered
+2021,JBS meat processing cyber attack,Acute,Reoccurring,No,Multi-tiered
